@@ -22,7 +22,7 @@ sudo apt install libsdl2-dev libsdl2-ttf-dev
 ```
 # Compilazione:
 ```bash
-gcc main.c chip8.c -o chip8 -lSDL2 -lSDL2_ttf -std=c99
+gcc main.c chip.c -o chip -lSDL2 -lSDL2_ttf -std=c99
 ```
 # Esecuzione:
 ```bash
