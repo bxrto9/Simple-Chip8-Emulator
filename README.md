@@ -47,3 +47,7 @@ Ho seguito tutorial per comprendere la logica di base, ma tutte le personalizzaz
 - Interfaccia audio più avanzata
 - Supporto a più ROM contemporaneamente
 - Modalità “debug” con visualizzazione registro e opcode corrente
+
+# Demo
+![Esempio di funzionamento](demo.gif)
+
